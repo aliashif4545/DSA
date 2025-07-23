@@ -1,3 +1,5 @@
+package Array;
+
 public class EvenAndOddElement {
 
     public static void main(String[] args) {

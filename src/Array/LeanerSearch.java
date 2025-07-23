@@ -1,3 +1,5 @@
+package Array;
+
 public class LeanerSearch {
 
     public static int leanerSearch(int []arr, int target)

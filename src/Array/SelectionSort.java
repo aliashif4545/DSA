@@ -1,3 +1,5 @@
+package Array;
+
 public class SelectionSort {
 
 public static int[] sort(int arr[])

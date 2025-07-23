@@ -1,3 +1,5 @@
+package Array;
+
 public class productOFArrayOPtimalSolution {
 
     public static int[] arrayProduct(int arr[])

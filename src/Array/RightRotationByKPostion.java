@@ -1,3 +1,5 @@
+package Array;
+
 public class RightRotationByKPostion {
 
     public static int[] rotateRight(int []arr, int postion)
